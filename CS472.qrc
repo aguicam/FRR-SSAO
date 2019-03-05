@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hw0/vshader0c.glsl</file>
+        <file>hw0/fshader0c.glsl</file>
+        <file>hw2/vshader2a.glsl</file>
+        <file>hw2/fshader2a.glsl</file>
+        <file>hw2/vshader2b.glsl</file>
+        <file>hw2/fshader2b.glsl</file>
+        <file>hw2/try.frag</file>
+        <file>hw2/try.vert</file>
+        <file>hw2/basicLighting1.vert</file>
+        <file>hw2/basicLighting1.frag</file>
+        <file>FRR/Shaders/geometry_ssao.frag</file>
+        <file>FRR/Shaders/geometry_ssao.vert</file>
+        <file>FRR/Shaders/light_ssao.frag</file>
+        <file>FRR/Shaders/blur_ssao.frag</file>
+        <file>FRR/Shaders/ssao.frag</file>
+        <file>FRR/Shaders/ssao.vert</file>
+		<file>FRR/Shaders/ssao_sep.frag</file>
+		<file>FRR/Shaders/blur1.frag</file>
+		<file>FRR/Shaders/blur2.frag</file>
+    </qresource>
+</RCC>
